@@ -12,7 +12,7 @@
 
 .header_img_logo {
     height: 1012px;
-    background-image: url(/manicure_site/src/img/sour-moha-k47viB7Dt8I-unsplash.png);
+    background-image: url(img/sour-moha-k47viB7Dt8I-unsplash.png);
     background-size: cover;
 }
 
@@ -349,27 +349,27 @@ html {
 .nail_products_img_1 {
     background-color: #767676;
     mix-blend-mode: multiply;
-    background-image: url(/manicure_site/src/img/make-up-concept-with-nail-polish\ 1.png);
+    background-image: url(img/make-up-concept-with-nail-polish\ 1.png);
     width: 355px;
     height: 465px;
 }
 
 .nail_products_img_2 {
-    background-image: url(/manicure_site/src/img/chelson-tamares-XldjmYB7JpU-unsplash\ 1.png);
+    background-image: url(img/chelson-tamares-XldjmYB7JpU-unsplash\ 1.png);
     width: 355px;
     height: 465px;
     margin-left: 60px;
 }
 
 .nail_products_img_3 {
-    background-image: url(/manicure_site/src/img/laura-chouette-9otleGHD1xI-unsplash\ 1.png);
+    background-image: url(img/laura-chouette-9otleGHD1xI-unsplash\ 1.png);
     width: 355px;
     height: 465px;
     margin-top: 50px;
 }
 
 .nail_products_img_4 {
-    background-image: url(/manicure_site/src/img/manicure-equipment-set-transparent-varnish-bottle-transparent-nail-polish-podium-towel\ 1.png);
+    background-image: url(img/manicure-equipment-set-transparent-varnish-bottle-transparent-nail-polish-podium-towel\ 1.png);
     width: 355px;
     height: 465px;
     margin-top: 50px;
@@ -377,7 +377,7 @@ html {
 }
 
 .big_img_mid {
-    background-image: url(/manicure_site/src/img/ihssan-rami-azouagh-DwJfb_uImGw-unsplash\ 1.png);
+    background-image: url(img/ihssan-rami-azouagh-DwJfb_uImGw-unsplash\ 1.png);
     background-size: cover;
     width: 776px;
     height: 964px;
