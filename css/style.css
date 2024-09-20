@@ -12,7 +12,7 @@
 
 .header_img_logo {
     height: 1012px;
-    background-image: url(img/sour-moha-k47viB7Dt8I-unsplash.png);
+    background-image: url(/img/sour-moha-k47viB7Dt8I-unsplash.png);
     background-size: cover;
 }
 
@@ -349,20 +349,20 @@ html {
 .nail_products_img_1 {
     background-color: #767676;
     mix-blend-mode: multiply;
-    background-image: url(img/make-up-concept-with-nail-polish\ 1.png);
+    background-image: url(/img/make-up-concept-with-nail-polish\ 1.png);
     width: 355px;
     height: 465px;
 }
 
 .nail_products_img_2 {
-    background-image: url(img/chelson-tamares-XldjmYB7JpU-unsplash\ 1.png);
+    background-image: url(/img/chelson-tamares-XldjmYB7JpU-unsplash\ 1.png);
     width: 355px;
     height: 465px;
     margin-left: 60px;
 }
 
 .nail_products_img_3 {
-    background-image: url(img/laura-chouette-9otleGHD1xI-unsplash\ 1.png);
+    background-image: url(/img/laura-chouette-9otleGHD1xI-unsplash\ 1.png);
     width: 355px;
     height: 465px;
     margin-top: 50px;
